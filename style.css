@@ -2,5 +2,21 @@ body {
     background-color: antiquewhite
     font-family: 'segoe UI';
     color: coral;
-    letter-spacing:.1em;    
+    letter-spacing:.1em; 
+    padding: 7em;
+}
+
+ div p {
+  background-color: blue;
+  margin: 0 auto; 
+  font-size: 130%;    
+}
+
+#bleu {
+    color:blue;
+}
+
+.center {
+   text-align: center;
+   padding: 20px 0;         
 }
